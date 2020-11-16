@@ -1,5 +1,6 @@
 
 /*
+
 	Implementing DFS Using Array
 
 	"Directed Graph"
@@ -9,15 +10,6 @@
 	DFS() That Checkes If every Node is Visited
 	DFS_Traversal() checks [0++][0,1,2,3,4] == 1 and 2nd[] is visitd
 
-	
-	 ___(1)<----------(2)
-	|    		       A 
-	V                  |
-	(0)                |
-	|                  |
-	--->(3)---------->(4)
-
-	Also From (1) --> (4)
 
 */
 
