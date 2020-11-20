@@ -60,8 +60,7 @@ class Graph{
 	}
 
 	//method of DFS Traversal
-	void DFS_traversal( i,boolean[] visited){
-int
+	void DFS_traversal(int i,boolean[] visited){
 		// marked i as Visited
 		visited[i] = true;
 		System.out.print(i+" ");
