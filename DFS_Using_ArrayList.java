@@ -1,5 +1,3 @@
-
-
 /*
 
 	Implementing DFS Using ArrayList
@@ -13,8 +11,6 @@
 	
 
 */
-
-
 
 import java.util.*;
 
@@ -58,6 +54,7 @@ class Graph{
 		}
 		System.out.println();
 	}
+	
 
 	//method of DFS Traversal
 	void DFS_traversal(int i,boolean[] visited){
@@ -79,6 +76,7 @@ class Graph{
 			}
 		}
 	}
+	
 
 	//method to Print Adjacent List
 	void printList(){
@@ -96,6 +94,8 @@ class Graph{
 
 
 }// end Class Graph
+
+
 
 public class DFS_Using_ArrayList{
 	public static void main(String[] args) {
